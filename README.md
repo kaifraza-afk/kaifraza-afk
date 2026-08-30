@@ -1,492 +1,318 @@
-# Hi, I'm Kaif 👋
+<div align="center">
+
+# Hi, I'm Kaif Raza 👋
 
 ### AI / Software Engineer | Data Science & AI @ IIT Bhilai
 
-I build **AI-powered applications and software systems**, with a focus on
-**LLMs, RAG, AI agents, machine learning, and production deployment**.
+Building **AI-powered applications, intelligent systems and production-ready software.**
 
-Currently working on turning AI ideas into **practical, scalable systems**.
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Engineering-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-%26%20AI%20Agents-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software-Engineering-2C3E50?style=for-the-badge" />
+</p>
 
-### What I work on
+<p>
+  <a href="https://github.com/kaifraza-afk">
+    <img src="https://img.shields.io/badge/GitHub-Kaif%20Raza-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-kaif-raza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaif%20Raza-0A66C2?style=flat&logo=linkedin" />
+  </a>
+</p>
 
-- 🤖 **Generative AI** — LLMs, RAG, AI Agents & Tool Calling
-- 🧠 **Machine Learning** — Model Development, Evaluation & Feature Engineering
-- 🔧 **AI Engineering** — APIs, AI Workflows, Evaluation & Deployment
-- 🌐 **Software Engineering** — React, FastAPI, Node.js & Databases
-- 🚀 **Deployment** — Docker, Kubernetes & AWS
-- 💻 **Problem Solving** — Data Structures & Algorithms
-
-# 🧠 AI / ML
-
-## 📊 Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### Concepts
-
-* Supervised Learning
-* Unsupervised Learning
-* Regression
-* Classification
-* Clustering
-* Ensemble Learning
-* Feature Engineering
-* Feature Selection
-* Dimensionality Reduction
-* Model Evaluation
-* Cross Validation
-* Hyperparameter Optimization
-* Gradient Descent
-* Time Series
-* Anomaly Detection
-* Recommendation Systems
+</div>
 
 ---
 
-# 🧠 Deep Learning
+## 👨‍💻 About Me
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+I'm a **3rd-year Data Science & AI student at IIT Bhilai** interested in building AI systems that solve practical problems.
 
-### Neural Networks
+My focus is on taking ideas from **models and experiments to usable software systems** — combining machine learning, LLMs, backend engineering and deployment.
 
-* Artificial Neural Networks
-* Backpropagation
-* CNNs
-* RNNs
-* LSTMs
-* GRUs
-* Autoencoders
-* Transfer Learning
-* Representation Learning
-
-### Computer Vision
-
-* Image Classification
-* Object Detection
-* Image Embeddings
-* Facial Analysis
-* Image Processing
-* OpenCV
-
-### NLP
-
-* Text Classification
-* Text Embeddings
-* Named Entity Recognition
-* Text Summarization
-* Sentiment Analysis
-* Sequence Modeling
+* 🤖 Building applications with **LLMs, RAG and AI Agents**
+* 🧠 Working with **Machine Learning & Deep Learning**
+* 🔎 Interested in **AI evaluation and reliable AI systems**
+* ⚙️ Building APIs and backend systems with **FastAPI & Node.js**
+* 🌐 Developing full-stack applications with **React**
+* 🚀 Working with **Docker, Kubernetes & AWS**
+* 💻 Strengthening **Data Structures & Algorithms**
+* 🏗️ Interested in **production AI and AI system design**
 
 ---
 
-# 🤯 Generative AI
+# 🧠 What I Work With
 
-Building applications around **Large Language Models and Generative AI**.
+### Generative AI
 
-### LLMs
+`LLMs` `RAG` `AI Agents` `Tool Calling` `Function Calling`
 
-* Large Language Models
-* Transformers
-* Attention Mechanisms
-* Tokenization
-* Embeddings
-* Context Windows
-* Inference
-* LLM Evaluation
+`Prompt Engineering` `Embeddings` `LLM Evaluation` `AI Workflows`
 
-### LLM Application Development
+### Machine Learning
 
-* Prompt Engineering
-* Structured Outputs
-* Function Calling
-* Tool Calling
-* Streaming
-* LLM APIs
-* Model Routing
-* AI Workflows
+`Scikit-learn` `PyTorch` `Pandas` `NumPy`
 
-### Frameworks
+`Feature Engineering` `Model Evaluation` `Regression`
 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+`Classification` `Time Series` `Statistical Analysis`
 
-* Hugging Face Transformers
-* LangChain
-* LangGraph
-* OpenAI APIs
-* Groq
-* Ollama
+### AI Engineering
 
----
+`FastAPI` `LangChain` `LangGraph`
 
-# 📚 RAG — Retrieval Augmented Generation
+`Vector Databases` `REST APIs` `Evaluation Pipelines`
 
-I'm interested in building **knowledge-aware LLM applications** using retrieval systems.
+`Docker` `Kubernetes` `AWS`
 
-### Concepts
+### Software Engineering
 
-* Document Processing
-* Chunking
-* Embeddings
-* Semantic Search
-* Vector Search
-* Metadata Filtering
-* Hybrid Search
-* Reranking
-* Context Retrieval
-* Retrieval Evaluation
-* Grounded Generation
+`C++` `Python` `JavaScript` `TypeScript`
 
-### Vector Databases
+`React` `Node.js` `Express.js`
 
-* FAISS
-* Chroma
-* Pinecone
-* Weaviate
-
-### RAG Architecture
-
-```text
-Documents
-    │
-    ▼
-Document Processing
-    │
-    ▼
-Chunking
-    │
-    ▼
-Embeddings
-    │
-    ▼
-Vector Database
-    │
-    ▼
-Retriever
-    │
-    ▼
-Reranker
-    │
-    ▼
-LLM
-    │
-    ▼
-Grounded Response
-```
-
----
-
-# 🧩 Agentic AI
-
-Exploring systems where AI models can **reason, plan, use tools and execute multi-step tasks**.
-
-### AI Agent Concepts
-
-* AI Agents
-* Agent Workflows
-* Tool Calling
-* Function Calling
-* Planning
-* Reasoning
-* Memory
-* Reflection
-* ReAct
-* Autonomous Workflows
-* Human-in-the-loop
-* Agent Evaluation
-
-### Multi-Agent Systems
-
-* Multi-Agent Collaboration
-* Agent Communication
-* Task Decomposition
-* Specialized Agents
-* Agent Orchestration
-
-### Frameworks
-
-* LangGraph
-* LangChain
-* CrewAI
-* OpenAI Agent SDK
-
----
-
-# 👁️ Multimodal AI
-
-Interested in combining multiple modalities to build richer AI systems.
-
-### Modalities
-
-```text
-             ┌──────────────┐
-             │  Multimodal  │
-             │      AI       │
-             └──────┬───────┘
-                    │
-       ┌────────────┼────────────┐
-       ▼            ▼            ▼
-     Text          Image        Audio
-       │            │            │
-       └────────────┼────────────┘
-                    ▼
-              Unified Model
-                    │
-                    ▼
-               AI Response
-```
-
-### Areas
-
-* Vision-Language Models
-* Speech AI
-* Audio Understanding
-* Image Understanding
-* Video Understanding
-* Multimodal Embeddings
-* Multimodal RAG
-* Vision-Language Applications
-
----
-
-# 🎯 AI Fine-Tuning
-
-Exploring techniques for adapting foundation models to specific tasks.
-
-* Transfer Learning
-* Fine-Tuning
-* Instruction Tuning
-* Parameter Efficient Fine-Tuning
-* LoRA
-* QLoRA
-* Dataset Preparation
-* Training Pipelines
-* Model Evaluation
-
----
-
-# ⚡ LLM Optimization
-
-Learning techniques for making AI applications **faster and cheaper**.
-
-* Quantization
-* Model Compression
-* KV Cache
-* Batching
-* Streaming
-* Efficient Inference
-* GPU Optimization
-* Model Serving
-* Latency Optimization
-* Cost Optimization
-
----
-
-# 🏗️ AI Engineering
-
-Interested in moving AI projects from **notebooks → production systems**.
-
-### AI System Design
-
-* Model Serving
-* Inference APIs
-* Async Processing
-* Caching
-* Queues
-* Database Design
-* Vector Databases
-* Scalable AI Pipelines
-* Monitoring
-* Logging
-* Evaluation
-* Observability
-
-### Architecture
-
-```text
-                  AI APPLICATION
-                        │
-             ┌──────────┴──────────┐
-             ▼                     ▼
-        User Interface          API Layer
-             │                     │
-             └──────────┬──────────┘
-                        ▼
-                 AI Orchestrator
-                        │
-        ┌───────────────┼───────────────┐
-        ▼               ▼               ▼
-       LLM             RAG            Tools
-        │               │               │
-        ▼               ▼               ▼
-     Inference      Vector DB       External APIs
-                        │
-                        ▼
-                    Response
-```
-
----
-
-# ⚙️ MLOps
-
-Learning how to deploy, monitor and maintain machine learning systems.
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-* Model Deployment
-* Model Serving
-* ML Pipelines
-* Experiment Tracking
-* Model Versioning
-* Data Versioning
-* CI/CD for ML
-* Model Monitoring
-* Drift Detection
-* Docker
-* Kubernetes
-* AWS
-
----
-
-# 💻 Software Engineering
-
-## MERN Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-* React
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* Authentication
-* JWT
-* Backend Development
-* API Design
-
----
-
-# 🧠 Data Structures & Algorithms
-
-Currently strengthening problem-solving for software engineering interviews.
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Hashing
-* Trees
-* Graphs
-* Heaps
-* Greedy
-* Backtracking
-* Dynamic Programming
-* Binary Search
-* Sliding Window
-* Two Pointers
-* BFS / DFS
-* Shortest Path
-* DSU
-* Segment Trees
-* Fenwick Trees
-* Tries
-
-### Coding Profiles
-
-* 🟧 LeetCode
-* 🔵 Codeforces
+`PostgreSQL` `MongoDB` `REST APIs`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 Multimodal Patient Analysis
+## 🤖 RAG Support Agent
 
-A multimodal AI system combining:
+**RAG-powered AI support system with evaluation and tool calling.**
 
-**Speech → Transcription → NLP → Voice Analysis → Facial Emotion → Unified Dashboard**
+Built an AI support agent capable of retrieving relevant knowledge, generating grounded responses and escalating low-confidence queries.
 
-**Tech:** Python • Whisper • DeepFace • OpenCV • Librosa • Machine Learning
+### Highlights
+
+* 🔎 Retrieval Augmented Generation
+* 🧠 LLM-powered responses
+* 🛠️ Tool / Function Calling
+* 📚 Vector search with ChromaDB
+* 📊 LLM-as-a-Judge evaluation
+* ⚡ FastAPI backend
+* 🌐 React + TypeScript frontend
+* 🐳 Dockerized application
+* 🚀 Deployment-ready architecture
+
+**Stack:** `Python` `FastAPI` `React` `TypeScript` `LangChain` `ChromaDB` `LLMs` `Docker`
+
+---
+
+## 🏥 Dantewada Health Analytics Platform
+
+**Full-stack health analytics platform built around real-world healthcare data.**
+
+A production-oriented platform for transforming large and fragmented health datasets into useful dashboards and analytics.
+
+### Highlights
+
+* 📊 Processed **2.18 lakh+ patient records**
+* 📁 Integrated data from **18 source files**
+* 🗄️ PostgreSQL-based data system
+* ⚙️ Backend APIs and data processing
+* 📈 Interactive analytics dashboard
+* 👨‍⚕️ Built for practical use by healthcare officials
+
+**Stack:** `React` `Node.js` `Express` `PostgreSQL` `Prisma` `Python`
 
 ---
 
 ## 💹 Machine Learning Trading Strategy
 
-ML-based trading system using feature engineering, statistical analysis and regression models.
+**Machine-learning based strategy using statistical analysis and feature engineering.**
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Ridge Regression
+Worked with large-scale tick data to build and evaluate a quantitative trading strategy.
+
+### Highlights
+
+* 📈 Feature engineering
+* 📊 Statistical analysis
+* 🧠 Ridge Regression
+* ⚡ Vectorized computation
+* 🔬 Backtesting
+* 🧪 Model evaluation
+
+**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn`
 
 ---
 
-## 🌐 College Lost & Found
+## 🏆 Inter-IIT Tech Meet — ML
 
-Full-stack platform for managing lost and found items within a college campus.
+Participated in the **Inter-IIT Tech Meet Machine Learning track**.
 
-**Tech:** React • Node.js • Express • MongoDB
+Focused on building practical machine learning solutions under competitive constraints.
+
+**Result:** 🏅 **Top 10**
 
 ---
 
-# 🔬 Currently Exploring
+# 🏗️ AI System Thinking
+
+I'm interested in the engineering layer that turns AI models into useful applications:
 
 ```text
-                 ARTIFICIAL INTELLIGENCE
-                          │
-          ┌───────────────┼───────────────┐
-          ▼               ▼               ▼
-         ML              DL             NLP/CV
-          │               │               │
-          └───────────────┼───────────────┘
-                          ▼
-                     Transformers
-                          │
-                          ▼
-                         LLMs
-                          │
-              ┌───────────┴───────────┐
-              ▼                       ▼
-             RAG                 Multimodal AI
-              │                       │
-              └───────────┬───────────┘
-                          ▼
-                     Agentic AI
-                          │
-                          ▼
-                  AI Engineering
-                          │
-                          ▼
-                   Production AI
+                    AI APPLICATION
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+        User Interface          API Layer
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+                  AI Orchestrator
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+         LLM            RAG           Tools
+          │              │              │
+          ▼              ▼              ▼
+      Inference      Vector DB     External APIs
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                    Evaluation
+                         │
+                         ▼
+                    AI Response
+```
+
+**Retrieval → Reasoning → Tool Use → Evaluation → Deployment**
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+`C++` `Python` `JavaScript` `TypeScript`
+
+### AI / ML
+
+`PyTorch` `Scikit-learn` `Pandas` `NumPy`
+
+`Hugging Face` `Machine Learning` `Deep Learning`
+
+### Generative AI
+
+`LangChain` `LangGraph` `OpenAI APIs` `Groq`
+
+`RAG` `Embeddings` `Vector Search` `AI Agents`
+
+### Backend & Web
+
+`React` `FastAPI` `Node.js` `Express.js`
+
+`REST APIs` `Prisma`
+
+### Databases
+
+`PostgreSQL` `MongoDB` `ChromaDB`
+
+### DevOps & Cloud
+
+`Docker` `Kubernetes` `AWS` `Linux` `Git` `GitHub`
+
+---
+
+# 💻 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** for software engineering interviews.
+
+### Topics
+
+`Arrays` `Strings` `Hashing` `Binary Search`
+
+`Linked Lists` `Stacks` `Queues` `Trees` `Graphs`
+
+`Heaps` `Greedy` `Backtracking` `Dynamic Programming`
+
+`Sliding Window` `Two Pointers` `BFS` `DFS`
+
+`Shortest Path` `DSU` `Fenwick Tree` `Segment Tree` `Tries`
+
+### Coding Profiles
+
+* 🟧 [**LeetCode**](https://leetcode.com/u/kaif6969/)
+* 🔵 [**Codeforces**](https://codeforces.com/profile/MdKaifRaza)
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+                    ARTIFICIAL INTELLIGENCE
+                             │
+              ┌──────────────┼──────────────┐
+              ▼              ▼              ▼
+             ML             DL             NLP/CV
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                        Transformers
+                             │
+                             ▼
+                            LLMs
+                             │
+                  ┌──────────┴──────────┐
+                  ▼                     ▼
+                 RAG              Multimodal AI
+                  │                     │
+                  └──────────┬──────────┘
+                             ▼
+                         AI Agents
+                             │
+                             ▼
+                       AI Engineering
+                             │
+                             ▼
+                      Production AI
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
-![Kaif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaifraza-afk\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifraza-afk\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=kaifraza-afk&show_icons=true&theme=tokyonight&hide_border=true" />
 
----
+<br/>
 
-# 🤝 Connect
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifraza-afk&layout=compact&theme=tokyonight&hide_border=true" />
 
-💼 LinkedIn — **Add your LinkedIn**
-
-🧑‍💻 LeetCode — **Add your LeetCode**
-
-🏆 Codeforces — **Add your Codeforces**
-
-📧 Email — **Add your email**
+</div>
 
 ---
 
-### 🤖 Building AI systems. Solving problems. Learning every day.
+# 🤝 Let's Connect
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+<a href="https://github.com/kaifraza-afk">
+  <img src="https://img.shields.io/badge/GitHub-Kaif%20Raza-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-kaif-raza/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kaif%20Raza-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/kaif6969/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codeforces.com/profile/MdKaifRaza">
+  <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building AI systems. Solving problems. Learning every day. 🚀
+
+</div>
