@@ -114,7 +114,7 @@ I care most about the **Evaluation** layer — an AI feature that isn't measured
 ### 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-kaifraza--afk-181717?style=for-the-badge&logo=github)](https://github.com/kaifraza-afk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaif_Raza-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-kaif-raza)
+[![LinkedIn](   https://www.linkedin.com/in/md-kaif-raza)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kaif6969/)
 
 *I build things, ship them, and stay around long enough to see what breaks.*
