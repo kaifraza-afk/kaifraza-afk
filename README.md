@@ -1,21 +1,20 @@
-# 👋 Hi, I'm Kaif
+# Hi, I'm Kaif 👋
 
-### Data Science & AI @ IIT Bhilai
+### AI / Software Engineer | Data Science & AI @ IIT Bhilai
 
-I'm a 3rd-year **Data Science & AI student at IIT Bhilai** focused on building **intelligent, scalable and production-ready AI systems**.
+I build **AI-powered applications and software systems**, with a focus on
+**LLMs, RAG, AI agents, machine learning, and production deployment**.
 
-I enjoy working across the AI stack — from **machine learning and deep learning** to **LLMs, Generative AI, RAG and Agentic AI**.
+Currently working on turning AI ideas into **practical, scalable systems**.
 
-* 🤖 Building **AI & ML applications**
-* 🧠 Exploring **Deep Learning & Transformers**
-* 🔥 Building with **LLMs & Generative AI**
-* 🧩 Exploring **Agentic AI & AI Agents**
-* 👁️ Interested in **Multimodal AI**
-* ⚙️ Learning **MLOps & AI System Design**
-* 💻 Practicing **DSA & Competitive Programming**
-* 🌐 Building AI-powered applications with the **MERN stack**
+### What I work on
 
----
+- 🤖 **Generative AI** — LLMs, RAG, AI Agents & Tool Calling
+- 🧠 **Machine Learning** — Model Development, Evaluation & Feature Engineering
+- 🔧 **AI Engineering** — APIs, AI Workflows, Evaluation & Deployment
+- 🌐 **Software Engineering** — React, FastAPI, Node.js & Databases
+- 🚀 **Deployment** — Docker, Kubernetes & AWS
+- 💻 **Problem Solving** — Data Structures & Algorithms
 
 # 🧠 AI / ML
 
